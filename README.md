@@ -86,4 +86,3 @@ kubectl -n kube-system describe secret $(kubectl -n kube-system get secret | gre
 
 关注公众号回复：k8s   获得k8s各个版本的一键部署脚本
 
-![index4](https://github.com/luckman666/devops_kkit/blob/master/gzh.jpg)
